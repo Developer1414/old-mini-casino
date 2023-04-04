@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "661920374235",
+    "project_id": "mini-casino-dcd3b",
+    "storage_bucket": "mini-casino-dcd3b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:661920374235:android:3a9270213d6f57cc581bfe",
+        "android_client_info": {
+          "package_name": "com.example.mini_casino"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "661920374235-dgsdeanbb5uvkd79vb0prg73cc1ijvf4.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mini_casino",
+            "certificate_hash": "8bff82b73a0b76bb92d1e1424618c0e640a7c50b"
+          }
+        },
+        {
+          "client_id": "661920374235-tr7eo77v5rj53n024sp3s4oorqfqqadi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyByyNdw9jf7xpLz-qPc8Q7Ed0THNhYuLAY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "661920374235-tr7eo77v5rj53n024sp3s4oorqfqqadi.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "661920374235-ufl4o6vkg91dp6lobipf2sagj5p6n2r2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.miniCasino"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
